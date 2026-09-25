@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="77877c6e-451d-494d-a96f-675be183dbda.jpg" alt="Oscar Darce Banner" width="100%" />
-</div>
+<img width="1024" height="311" alt="77877c6e-451d-494d-a96f-675be183dbda" src="https://github.com/user-attachments/assets/eece90e0-3039-4509-b169-8231688dadd8" />
 
 <br>
 
