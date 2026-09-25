@@ -1,3 +1,5 @@
+<img width="1024" height="311" alt="77877c6e-451d-494d-a96f-675be183dbda" src="https://github.com/user-attachments/assets/ef0548b8-e21c-436e-ba9b-ab886e2a92ed" />
+
 # Hey, I'm Oscar. 👋
 
 ### `Software Developer` · `Costa Rica 🇨🇷`
